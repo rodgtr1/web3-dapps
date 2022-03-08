@@ -11,6 +11,10 @@
 4. Run truffle develop to generate a seed phrase/addresses. In that develop terminal run ```migrate --reset --network ropsten``` to run your migrations and build/deploy your project. Be sure to have some test ether in order to deploy and make transactions.
 5. Run ```npm run start``` to run app. You can Create, Read, Update, and Delete users on the Ropsten network using the Metamask wallet and the Ropsten network.
 
-<br /><br />
+<br />
+
+Obviously functionality is the focus here, not style 🤪
+
+<br />
 
 ![Screenshot](crud-app.png)
