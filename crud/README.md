@@ -13,4 +13,4 @@
 
 <br /><br />
 
-![Screenshot](/crud-app.png)
+![Screenshot](crud-app.png)
